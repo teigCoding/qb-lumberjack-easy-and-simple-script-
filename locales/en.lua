@@ -10,7 +10,7 @@ local Translations = {
     },
     label = {
         cutting = "Cutting the tree..",
-        selling = "Selling Rrsources..",
+        selling = "Selling Resources..",
         processing = "Tearing off the bark..",
         header = "Sell Materials",
         header2 = "Timber",
